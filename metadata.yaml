@@ -1,0 +1,42 @@
+_repo: Three-Translations-of-The-Koran--Al-Qur-an--side-by-side_16955
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Pickthall, Marmaduke William
+    birthdate: 1875
+    deathdate: 1936
+    gutenberg_agent_id: '7047'
+    url: http://www.gutenberg.org/2009/agents/7047
+    wikipedia: http://en.wikipedia.org/wiki/Marmaduke_Pickthall
+  - agent_name: Ali, Abdullah Yusuf
+    birthdate: 1872
+    deathdate: 1952
+    gutenberg_agent_id: '7046'
+    url: http://www.gutenberg.org/2009/agents/7046
+    wikipedia: http://en.wikipedia.org/wiki/Abdullah_Yusuf_Ali
+  - agent_name: Shakir, M. H. (Mohammad Habib)
+    birthdate: 1866
+    deathdate: 1939
+    gutenberg_agent_id: '7048'
+    url: http://www.gutenberg.org/2009/agents/7048
+    wikipedia: http://en.wikipedia.org/wiki/M._H._Shakir
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf:
+- Harvard Classics
+- Islam
+gutenberg_issued: '2005-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16955'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Qur''an'
+- !lcc 'BP'
+title: Three Translations of The Koran (Al-Qur'an) side by side
+url: http://www.gutenberg.org/ebooks/16955
