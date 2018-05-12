@@ -24,6 +24,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16955#Three-Translations-of-The-Koran--Al-Qur-an--side-by-side
 gutenberg_bookshelf:
 - Harvard Classics
 - Islam
